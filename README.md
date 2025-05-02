@@ -13,5 +13,4 @@ cd Emotion-Detection-CNN
 streamlit run app.py
 1. Install requirements:
 pip install -r requirements.txt
-
-![Happy Emotion](assets/[happy.jpg](https://github.com/MananAli05/Emotion-Detection-CNN/blob/main/assets/happy.jpg?raw=true))
+![Emotion_Image](https://github.com/MananAli05/Emotion-Detection-CNN/blob/c5506fb803e1ea132071d30f81d034b01551636e/happy.jpg)
