@@ -6,6 +6,15 @@ Captured images are stored in the `camera_detects` folder.
 
 ## How to Run
 
+## Clone the Repository
+```bash
+git clone https://github.com/MananAli05/Emotion-Detection-CNN.git
+cd Emotion-Detection-CNN
+
 1. Install requirements:
 ```bash
 pip install -r requirements.txt
+
+streamlit run app.py
+
+![Happy Emotion](assets/happy.jpg)
