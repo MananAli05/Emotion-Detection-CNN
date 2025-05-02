@@ -7,14 +7,11 @@ Captured images are stored in the `camera_detects` folder.
 
 
 ## Clone the Repository
-```bash
 git clone https://github.com/MananAli05/Emotion-Detection-CNN.git
 cd Emotion-Detection-CNN
-
 ## How to Run
 streamlit run app.py
 1. Install requirements:
-```bash
 pip install -r requirements.txt
 
 ![Happy Emotion](assets/[happy.jpg](https://github.com/MananAli05/Emotion-Detection-CNN/blob/main/assets/happy.jpg?raw=true))
