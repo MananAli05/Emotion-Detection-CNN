@@ -17,4 +17,4 @@ streamlit run app.py
 ```bash
 pip install -r requirements.txt
 
-![Happy Emotion](assets/happy.jpg)
+![Happy Emotion](assets/[happy.jpg](https://github.com/MananAli05/Emotion-Detection-CNN/blob/main/assets/happy.jpg?raw=true))
